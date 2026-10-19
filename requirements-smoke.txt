@@ -1,0 +1,5 @@
+# only for smoke_load.py (imports spiral-fitting's own loader)
+-r requirements.txt
+torch
+einops
+tqdm

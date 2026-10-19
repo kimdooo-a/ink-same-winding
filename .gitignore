@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+# data and run outputs stay out of the repository
+data/
+out/
+*.part*
+*.tif
+*.tiff
+*.zarr/
+.DS_Store
+Thumbs.db

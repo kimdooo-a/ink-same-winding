@@ -1,0 +1,6 @@
+# generator + validators
+numpy>=1.26
+scipy>=1.11
+tifffile>=2024.1
+imagecodecs>=2024.1
+pillow>=10
